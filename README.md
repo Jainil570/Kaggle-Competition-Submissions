@@ -1,2 +1,3 @@
 # Kaggle-Competition-Submissions
-Kaggle Competition Submissions given by me ;)
+## Here is my kaggle id : 
+[Jainil Patel](https://www.kaggle.com/jainilspatel)
